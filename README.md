@@ -9,5 +9,3 @@ Add packages to racine file :  https://www.swisstransfer.com/d/1625e760-64b2-4cf
 🛒Oxymod Shopping: https://shoppy.gg/@OxydMod
 ------------------
 💻Demo: https://www.youtube.com/watch?v=yAcHlUmJ1Oc
-------------------
-🎵 Music: Call Me - Go West
